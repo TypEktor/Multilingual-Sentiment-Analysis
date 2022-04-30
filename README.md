@@ -1,5 +1,4 @@
 # Multilingual-Sentiment-Analysis
-
 ---
 
 This work comes from a recent research project I volunteering helped out with the Aristotle University of Thessaloniki for investigating the sentiment of Twitter accounts. As part of the initial research, an extensive Multilingual Sentiment Analysis on a set of tweets was necessary for extracting
@@ -48,3 +47,7 @@ Installation with pip:
 ---
 
 ## Resources
+
+---
+
+## Work in progress
