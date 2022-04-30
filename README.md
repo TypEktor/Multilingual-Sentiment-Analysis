@@ -1,8 +1,7 @@
 # Multilingual-Sentiment-Analysis
 ---
 
-This work comes from a recent research project I volunteering helped out with the Aristotle University of Thessaloniki for investigating the sentiment of Twitter accounts. As part of the initial research, an extensive Multilingual Sentiment Analysis on a set of tweets was necessary for extracting
- useful insights.
+This work comes from a recent research project I volunteered to help out with the Aristotle University of Thessaloniki for investigating the sentiment of Twitter accounts. As part of the initial research, an extensive Multilingual Sentiment Analysis on a set of tweets was necessary for extracting useful insights.
 
 A high-level Sentiment analysis Pipeline flowchart
 
@@ -11,8 +10,8 @@ A high-level Sentiment analysis Pipeline flowchart
 ---
 
 ## Contents
-- **FunctionsMLSA.py:**  A file that contains a set of general purpose functions. Mostly used within the Multi-Sentiment_Analysis.
-- **Multi_Sentiment_Analysis.py:** A class for creating the Multi-Sentiment Analysis object and call all the relevant functions (Plots, Text Cleaning etc.).
+- **FunctionsMLSA.py:**  A file that contains a set of general-purpose functions. Mostly used within the Multi-Sentiment_Analysis.
+- **Multi_Sentiment_Analysis.py:** A class for creating the Multi-Sentiment Analysis object and calling all the relevant functions (Plots, Text Cleaning, etc.).
 - **main.py:** The file that contains the main function
 - **Output:** A folder containing all the outputs from executing the project
 - **requirement.txt:** File that contains all the packages used for this project
@@ -20,9 +19,9 @@ A high-level Sentiment analysis Pipeline flowchart
 ---
 
 ## Data
-The tweet extraction has been done using vicinitas.io. Tweets from 10 accounts have been selected and their tweets have been saved in different spreadsheets (csv).  This dataset contains .. tweets that are not classified – labeled.
+The tweet extraction has been done using vicinitas.io. Tweets from 10 accounts have been selected and their tweets have been saved in different spreadsheets (CSV).  This dataset contains 36k tweets that are not classified – labeled.
 
-At this point the data can't be published and thus can't be uploaded into GitHub
+At this point, the data can't be published and thus can't be uploaded to GitHub
 
 ---
 
