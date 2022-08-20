@@ -31,6 +31,10 @@ Furthermore there are also two levixons that must be downloaded:
 - nltk.download('vader_lexicon')
 - nltk.download('wordnet')
 
+Conda Installation:
+
+- MultiSA.yml : A yml file that contains the environment for running the Vader-multi package ()
+
 Installation with pip:
 
 ```pip install -r requirements.txt```
@@ -57,9 +61,6 @@ Useful Resources:
 
 - https://github.com/otuncelli/turkish-stemmer-python
 
-- https://www.google.com/searchq=sentiment+analysis+vader+for+multilingualism&oq=sentiment+analysis+VADER+for+multiliguar&aqs=chrome.1.69i57j33i10i160.24745j0j4&sourceid=chrome&ie=UTF-8
-
-#
 ---
 
 ## Work in progress
