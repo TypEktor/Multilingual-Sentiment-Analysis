@@ -47,6 +47,19 @@ Installation with pip:
 
 ## Resources
 
+Useful Resources:
+
+- https://aip.scitation.org/doi/pdf/10.1063/1.5136197
+
+- https://github.com/UmarIgan/Python-Turkish-Sentiment-Analysis/blob/master/Twitter%20Api.ipynb
+
+- https://medium.com/analytics-vidhya/rule-based-sentiment-analysis-with-python-for-turkeys-stock-market-839f85d7daaf
+
+- https://github.com/otuncelli/turkish-stemmer-python
+
+- https://www.google.com/searchq=sentiment+analysis+vader+for+multilingualism&oq=sentiment+analysis+VADER+for+multiliguar&aqs=chrome.1.69i57j33i10i160.24745j0j4&sourceid=chrome&ie=UTF-8
+
+#
 ---
 
 ## Work in progress
